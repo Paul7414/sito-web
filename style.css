@@ -1,0 +1,60 @@
+h1{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 a{
+  color: black;
+  text-decoration: none;
+}
+h1 a:hover{
+  color: #9adf95;
+  text-decoration: none;
+}
+h2{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.immagine{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+li a {
+  display: flex;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+li a:hover {
+  background-color: #89b6e6;
+}
+ul {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #9adf95;
+}
+body{
+  background-color: lightseagreen;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+h2 a:hover{
+  color: #9adf95;
+  text-decoration: none;
+}
+.audio{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
